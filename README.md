@@ -83,7 +83,7 @@ Powell, Jacob (2026)
 ZetaPhase: A Log-Phase Mapping of Physical Constants Using the First Riemann Zeta Zero
 
 DOI  
-https://doi.org/10.5281/zenodo.18994859
+(https://doi.org/10.5281/zenodo.18994912)
 
 Repository  
 https://github.com/Jacob3175
