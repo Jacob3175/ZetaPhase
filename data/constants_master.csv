@@ -1,0 +1,91 @@
+id,constant_name,symbol,group,category,source_family,raw_value,raw_units,normalization_rule,normalized_value,log_value,phase,nearest_band,residual,include_in_primary_stats
+1,Fine Structure Constant,alpha,primary,coupling,CODATA,,,direct,,,,,,yes
+2,Strong Coupling at Z Mass,alpha_s_MZ,primary,coupling,PDG,,,direct,,,,,,yes
+3,Weak Mixing Angle,sin2thetaW,primary,coupling,PDG,,,direct,,,,,,yes
+4,Electron Mass,me,primary,fermion_mass,CODATA,,,kg,m/mP,,,,,yes
+5,Muon Mass,mmu,primary,fermion_mass,PDG,,,MeV,m/mP,,,,,yes
+6,Tau Mass,mtau,primary,fermion_mass,PDG,,,MeV,m/mP,,,,,yes
+7,Up Quark Mass,mu,primary,fermion_mass,PDG,,,MeV,m/mP,,,,,yes
+8,Down Quark Mass,md,primary,fermion_mass,PDG,,,MeV,m/mP,,,,,yes
+9,Strange Quark Mass,ms,primary,fermion_mass,PDG,,,MeV,m/mP,,,,,yes
+10,Charm Quark Mass,mc,primary,fermion_mass,PDG,,,GeV,m/mP,,,,,yes
+11,Bottom Quark Mass,mb,primary,fermion_mass,PDG,,,GeV,m/mP,,,,,yes
+12,Top Quark Mass,mt,primary,fermion_mass,PDG,,,GeV,m/mP,,,,,yes
+13,W Boson Mass,MW,primary,boson_mass,PDG,,,GeV,m/mP,,,,,yes
+14,Z Boson Mass,MZ,primary,boson_mass,PDG,,,GeV,m/mP,,,,,yes
+15,Higgs Boson Mass,MH,primary,boson_mass,PDG,,,GeV,m/mP,,,,,yes
+16,Higgs Vacuum Expectation Value,v,primary,electroweak_scale,PDG,,,GeV,m/mP,,,,,yes
+17,Fermi Constant,GF,primary,electroweak_scale,CODATA,,,GeV^-2,GF*mP^2,,,,,yes
+18,Proton Mass,mp,primary,hadron_mass,CODATA,,,kg,m/mP,,,,,yes
+19,Neutron Mass,mn,primary,hadron_mass,CODATA,,,kg,m/mP,,,,,yes
+20,Charged Pion Mass,mpi_charged,primary,hadron_mass,PDG,,,MeV,m/mP,,,,,yes
+21,Neutral Pion Mass,mpi_neutral,primary,hadron_mass,PDG,,,MeV,m/mP,,,,,yes
+22,Charged Kaon Mass,mK_charged,primary,hadron_mass,PDG,,,MeV,m/mP,,,,,yes
+23,Neutral Kaon Mass,mK_neutral,primary,hadron_mass,PDG,,,MeV,m/mP,,,,,yes
+24,Eta Meson Mass,meta,primary,hadron_mass,PDG,,,MeV,m/mP,,,,,yes
+25,Lambda Baryon Mass,mlambda,primary,hadron_mass,PDG,,,MeV,m/mP,,,,,yes
+26,Sigma Plus Mass,msigma_plus,primary,hadron_mass,PDG,,,MeV,m/mP,,,,,yes
+27,Xi Minus Mass,mxi_minus,primary,hadron_mass,PDG,,,MeV,m/mP,,,,,yes
+28,Rydberg Constant,Rinf,primary,atomic_constant,CODATA,,,1/m,direct,,,,,yes
+29,Electron g-factor,ge,primary,atomic_constant,CODATA,,,dimensionless,direct,,,,,yes
+30,Proton g-factor,gp,primary,atomic_constant,CODATA,,,dimensionless,direct,,,,,yes
+31,Muon Magnetic Moment Anomaly,a_mu,primary,atomic_constant,PDG,,,dimensionless,direct,,,,,yes
+32,Bohr Radius,a0,primary,atomic_constant,CODATA,,,m,L/lP,,,,,yes
+33,Classical Electron Radius,re,primary,atomic_constant,CODATA,,,m,L/lP,,,,,yes
+34,Thomson Cross Section,sigma_T,primary,atomic_constant,CODATA,,,m^2,A/lP^2,,,,,yes
+35,Hartree Energy,Eh,primary,atomic_constant,CODATA,,,J,E/EP,,,,,yes
+36,Newtonian Gravitational Constant,G,primary,gravity_constant,CODATA,,,m^3kg^-1s^-2,direct,,,,,yes
+37,Planck Mass,mP,primary,planck_unit,CODATA,,,kg,direct,,,,,yes
+38,Planck Length,lP,primary,planck_unit,CODATA,,,m,direct,,,,,yes
+39,Planck Time,tP,primary,planck_unit,CODATA,,,s,direct,,,,,yes
+40,Planck Temperature,TP,primary,planck_unit,CODATA,,,K,direct,,,,,yes
+41,Cosmological Constant,Lambda_cosmo,primary,cosmology,Planck,,,1/m^2,Lambda*lP^2,,,,,yes
+42,Hubble Constant,H0,primary,cosmology,Planck,,,km/s/Mpc,H0*tP,,,,,yes
+43,CMB Temperature,Tcmb,primary,cosmology,Planck,,,K,T/TP,,,,,yes
+44,Baryon Photon Ratio,eta,primary,cosmology,Planck,,,dimensionless,direct,,,,,yes
+45,Matter Density Parameter,Omega_m,primary,cosmology,Planck,,,dimensionless,direct,,,,,yes
+46,Baryon Density Parameter,Omega_b,primary,cosmology,Planck,,,dimensionless,direct,,,,,yes
+47,Dark Energy Density Parameter,Omega_Lambda,primary,cosmology,Planck,,,dimensionless,direct,,,,,yes
+48,Scalar Spectral Amplitude,As,primary,cosmology,Planck,,,dimensionless,direct,,,,,yes
+49,Scalar Spectral Index,ns,primary,cosmology,Planck,,,dimensionless,direct,,,,,yes
+50,Reionization Optical Depth,tau_reion,primary,cosmology,Planck,,,dimensionless,direct,,,,,yes
+51,Solar Neutrino Mass Splitting,dm21_sq,primary,neutrino,PDG,,,eV^2,direct,,,,,yes
+52,Atmospheric Neutrino Mass Splitting,dm31_sq,secondary,neutrino,PDG,,,eV^2,direct,,,,,no
+53,PMNS Angle Theta12,sin2theta12,secondary,neutrino,PDG,,,dimensionless,direct,,,,,no
+54,PMNS Angle Theta13,sin2theta13,secondary,neutrino,PDG,,,dimensionless,direct,,,,,no
+55,PMNS Angle Theta23,sin2theta23,secondary,neutrino,PDG,,,dimensionless,direct,,,,,no
+56,Deuteron Mass,mD,secondary,nuclear,PDG,,,MeV,m/mP,,,,,no
+57,Triton Mass,mT,secondary,nuclear,PDG,,,MeV,m/mP,,,,,no
+58,Alpha Particle Mass,mHe4,secondary,nuclear,PDG,,,MeV,m/mP,,,,,no
+59,Rho Meson Mass,mrho,secondary,hadron_mass,PDG,,,MeV,m/mP,,,,,no
+60,Omega Meson Mass,momega,secondary,hadron_mass,PDG,,,MeV,m/mP,,,,,no
+61,Phi Meson Mass,mphi,secondary,hadron_mass,PDG,,,MeV,m/mP,,,,,no
+62,Jpsi Mass,mJpsi,secondary,hadron_mass,PDG,,,GeV,m/mP,,,,,no
+63,Upsilon Mass,mUpsilon,secondary,hadron_mass,PDG,,,GeV,m/mP,,,,,no
+64,Pion Decay Constant,fpi,secondary,hadron_constant,PDG,,,MeV,fpi/mP,,,,,no
+65,Proton Charge Radius,rp,secondary,atomic_constant,CODATA,,,m,L/lP,,,,,no
+66,Deuteron Charge Radius,rD,secondary,atomic_constant,CODATA,,,m,L/lP,,,,,no
+67,Neutron Lifetime,taun,secondary,nuclear,PDG,,,s,t/tP,,,,,no
+68,Muon Lifetime,taumu,secondary,particle,PDG,,,s,t/tP,,,,,no
+69,Tau Lifetime,tautau,secondary,particle,PDG,,,s,t/tP,,,,,no
+70,QCD Scale,Lambda_QCD,secondary,strong_scale,PDG,,,MeV,m/mP,,,,,no
+71,Critical Density,rho_c,secondary,cosmology,Planck,,,kg/m^3,rho/rhoP,,,,,no
+72,Vacuum Energy Density,rho_lambda,secondary,cosmology,Planck,,,kg/m^3,rho/rhoP,,,,,no
+73,Sound Horizon,rs,secondary,cosmology,Planck,,,Mpc,L/lP,,,,,no
+74,Recombination Redshift,z_rec,secondary,cosmology,Planck,,,dimensionless,direct,,,,,no
+75,Age of Universe,t0,secondary,cosmology,Planck,,,s,t/tP,,,,,no
+76,Proton Electron Mass Ratio,mu_pe,derived,ratio,CODATA,,,dimensionless,direct,,,,,no
+77,Muon Electron Mass Ratio,mu_me,derived,ratio,CODATA,,,dimensionless,direct,,,,,no
+78,Tau Electron Mass Ratio,mu_te,derived,ratio,CODATA,,,dimensionless,direct,,,,,no
+79,Gravitational Coupling Constant,alpha_G,derived,gravity,CODATA,,,dimensionless,direct,,,,,no
+80,Electron Gravitational Coupling,alpha_Ge,derived,gravity,CODATA,,,dimensionless,direct,,,,,no
+81,Cosmological Constant Planck Units,Lambda_lP2,derived,cosmology,Planck,,,dimensionless,direct,,,,,no
+82,Dark Energy Density Planck Units,rho_lambda_P,derived,cosmology,Planck,,,dimensionless,direct,,,,,no
+83,Baryon Fraction,Omega_b_over_m,derived,cosmology,Planck,,,dimensionless,direct,,,,,no
+84,Matter Dark Energy Ratio,Omega_m_over_L,derived,cosmology,Planck,,,dimensionless,direct,,,,,no
+85,Electroweak Planck Ratio,v_over_mP,derived,scale,PDG,,,dimensionless,direct,,,,,no
+86,QCD Planck Ratio,LambdaQCD_over_mP,derived,scale,PDG,,,dimensionless,direct,,,,,no
+87,W Z Mass Ratio,MW_over_MZ,derived,ratio,PDG,,,dimensionless,direct,,,,,no
+88,Higgs Top Ratio,MH_over_mt,derived,ratio,PDG,,,dimensionless,direct,,,,,no
+89,Neutron Proton Mass Difference,delta_np,derived,nuclear,PDG,,,MeV,m/mP,,,,,no
+90,Electron Proton Charge Mass Composite,ep_composite,derived,composite,CODATA,,,dimensionless,direct,,,,,no
