@@ -1,6 +1,6 @@
 # ZetaPhase
 
-[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18994912.svg)](https://doi.org/10.5281/zenodo.18994912)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18994912.svg)](https://doi.org/10.5281/zenodo.18994912)
 
 **A logarithmic phase mapping of physical constants using the imaginary part of the first Riemann zeta zero.**
 
